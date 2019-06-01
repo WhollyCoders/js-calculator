@@ -10,8 +10,9 @@ html, body {
 .container {
 	background: black;
 	font-size: 60px;
-	width: 50%;
+	width: 240px;
 	padding: 10px 15px;
+	margin: 30px auto;
 }
 
 #display {
